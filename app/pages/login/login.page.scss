@@ -1,0 +1,24 @@
+
+// Avatar image 
+ion-avatar{
+    height: 20vh;
+    width: 20vh;
+    margin:5vh auto;
+    ion-img{
+        width: 100%;
+        height: 100%; 
+    }
+}
+
+.errorMsg{
+    font-size: 0.8rem;
+}
+
+ion-button{
+    margin-top: 6vh;
+}
+
+.signUp{
+    margin-top: 5vh;
+    color: car(--ion-color-primary);
+}
